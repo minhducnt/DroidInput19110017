@@ -1,4 +1,4 @@
-package com.android.droidcafe;
+package com.android.DroidInput;
 
 import org.junit.Test;
 

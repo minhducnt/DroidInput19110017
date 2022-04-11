@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Droid Cafe"
+rootProject.name = "InputControlApp19110322"
 include ':app'
